@@ -1,0 +1,42 @@
+.container{
+
+display:flex ;
+flex-direction: row;
+flex-wrap   :wrap;
+justify-content: space-between;
+
+
+}
+.item-1{
+    background-color: red;
+
+}
+.item-2{
+    background-color: green;
+}
+.item-3{
+    background-color: yellow;   
+}
+.item-4{
+    background-color: pink;   
+}
+.item-5{
+    background-color: blue;
+}
+.item-6{
+    background-color: antiquewhite;  
+}
+.item-7{
+    background-color: aqua;     
+}
+.item-8{
+    background-color: aquamarine;     
+}
+.item-9{
+    background-color: beige;     
+}
+.flex-item{
+    color: white;
+    padding: 2rem;
+    
+}

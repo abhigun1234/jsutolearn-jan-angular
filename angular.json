@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "firstday"
+  "defaultProject": "firstday",
+  "cli": {
+    "analytics": false
+  }
 }
